@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iredox10
-- 👀 I’m interested in JS,Node.js,Html,Css,Machine Learning, and Blockchain technologies
-- 🌱 I’m currently learning Nextjs, Vim, and Docker
-- 💞️ I’m looking to collaborate on mobile apps and web apps
+- 👀 I’m interested in JS,Node.js,React.js,Machine Learning, and Blockchain technologies
+- 🌱 I’m currently learning Rust, Svelte, and python
+- 💞️ I’m looking to collaborate on mobile apps, web apps, and embedded system
 <!-- - 📫 How to reach me ... -->
 
 <!---
